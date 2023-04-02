@@ -1,7 +1,7 @@
 from secrete import password
 
 def sum_aa(a,b):
-    adding=a+b
+    adding=a-b
     print(adding)
 
 class parent:
