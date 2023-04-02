@@ -28,6 +28,7 @@ class B:
     def sum_f(self, a, b, c):
      d=A().add_f(a, b)
      print(d+c) #A().add_f(a, b) + c
+     print("hello , changes after commit")
 
 
 b=B()
