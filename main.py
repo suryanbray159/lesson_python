@@ -1,5 +1,9 @@
 from secrete import password
 
+def sum_aa(a,b):
+    adding=a+b
+    print(adding)
+
 class parent:
     def sum(self,a,b):
         return a+b
@@ -41,4 +45,8 @@ z=int(input("enter 2nd no."))
 #b.Fun(x,y)
 b.sum_f(x, y, z)
 print(password)
+print("check diff")
+sum_aa(50,2)
+print("Dev POD")
+
 
