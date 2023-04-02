@@ -47,6 +47,6 @@ b.sum_f(x, y, z)
 print(password)
 print("check diff")
 sum_aa(50,2)
-print("Dev POD pycharm & github New1")
+print("Dev POD pycharm & github New2")
 
 
