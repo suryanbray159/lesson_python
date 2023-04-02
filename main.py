@@ -40,4 +40,5 @@ z=int(input("enter 2nd no."))
 #fuction call of your class
 #b.Fun(x,y)
 b.sum_f(x, y, z)
+print(password)
 
