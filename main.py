@@ -1,3 +1,5 @@
+from secrete import password
+
 class parent:
     def sum(self,a,b):
         return a+b
